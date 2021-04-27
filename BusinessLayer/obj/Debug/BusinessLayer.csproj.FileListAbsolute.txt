@@ -1,0 +1,6 @@
+C:\Users\Meka\source\repos\1. TO DO PROJECTS\MvcCampProject\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\Meka\source\repos\1. TO DO PROJECTS\MvcCampProject\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\Meka\source\repos\1. TO DO PROJECTS\MvcCampProject\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\Meka\source\repos\1. TO DO PROJECTS\MvcCampProject\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Meka\source\repos\1. TO DO PROJECTS\MvcCampProject\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\Meka\source\repos\1. TO DO PROJECTS\MvcCampProject\BusinessLayer\obj\Debug\BusinessLayer.pdb
