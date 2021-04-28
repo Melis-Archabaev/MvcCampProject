@@ -10,3 +10,15 @@ C:\Users\Melis\source\repos\1. TO DO PROJECTS\MvcCampProject\BusinessLayer\obj\D
 C:\Users\Melis\source\repos\1. TO DO PROJECTS\MvcCampProject\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
 C:\Users\Melis\source\repos\1. TO DO PROJECTS\MvcCampProject\BusinessLayer\obj\Debug\BusinessLayer.dll
 C:\Users\Melis\source\repos\1. TO DO PROJECTS\MvcCampProject\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\Melis\source\repos\1. TO DO PROJECTS\MvcCampProject\BusinessLayer\bin\Debug\BusinessLayer.dll.config
+C:\Users\Melis\source\repos\1. TO DO PROJECTS\MvcCampProject\BusinessLayer\bin\Debug\DataAccesLayer.dll
+C:\Users\Melis\source\repos\1. TO DO PROJECTS\MvcCampProject\BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\Melis\source\repos\1. TO DO PROJECTS\MvcCampProject\BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Melis\source\repos\1. TO DO PROJECTS\MvcCampProject\BusinessLayer\bin\Debug\EntityLayer.dll
+C:\Users\Melis\source\repos\1. TO DO PROJECTS\MvcCampProject\BusinessLayer\bin\Debug\DataAccesLayer.pdb
+C:\Users\Melis\source\repos\1. TO DO PROJECTS\MvcCampProject\BusinessLayer\bin\Debug\DataAccesLayer.dll.config
+C:\Users\Melis\source\repos\1. TO DO PROJECTS\MvcCampProject\BusinessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\Melis\source\repos\1. TO DO PROJECTS\MvcCampProject\BusinessLayer\bin\Debug\EntityLayer.dll.config
+C:\Users\Melis\source\repos\1. TO DO PROJECTS\MvcCampProject\BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\Melis\source\repos\1. TO DO PROJECTS\MvcCampProject\BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Melis\source\repos\1. TO DO PROJECTS\MvcCampProject\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
