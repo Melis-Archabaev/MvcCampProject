@@ -51,10 +51,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Abstract\IAboutDAL.cs" />
     <Compile Include="Abstract\ICategoryDAL.cs" />
+    <Compile Include="Abstract\IContactDAL.cs" />
+    <Compile Include="Abstract\IContentDAL.cs" />
+    <Compile Include="Abstract\IHeadingDAL.cs" />
     <Compile Include="Abstract\IRepository.cs" />
+    <Compile Include="Abstract\IWriterDAL.cs" />
     <Compile Include="Concrete\Context.cs" />
     <Compile Include="Concrete\Repositories\CategoryRepository.cs" />
+    <Compile Include="Concrete\Repositories\GenericRepository.cs" />
+    <Compile Include="Concrete\Repositories\WriterRepository.cs" />
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

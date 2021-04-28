@@ -10,3 +10,15 @@ C:\Users\Meka\source\repos\1. TO DO PROJECTS\MvcCampProject\EntityLayer\obj\Debu
 C:\Users\Meka\source\repos\1. TO DO PROJECTS\MvcCampProject\EntityLayer\obj\Debug\EntityLayer.csproj.CopyComplete
 C:\Users\Meka\source\repos\1. TO DO PROJECTS\MvcCampProject\EntityLayer\obj\Debug\EntityLayer.dll
 C:\Users\Meka\source\repos\1. TO DO PROJECTS\MvcCampProject\EntityLayer\obj\Debug\EntityLayer.pdb
+C:\Users\Melis\source\repos\1. TO DO PROJECTS\MvcCampProject\EntityLayer\bin\Debug\EntityLayer.dll.config
+C:\Users\Melis\source\repos\1. TO DO PROJECTS\MvcCampProject\EntityLayer\bin\Debug\EntityLayer.dll
+C:\Users\Melis\source\repos\1. TO DO PROJECTS\MvcCampProject\EntityLayer\bin\Debug\EntityLayer.pdb
+C:\Users\Melis\source\repos\1. TO DO PROJECTS\MvcCampProject\EntityLayer\bin\Debug\EntityFramework.dll
+C:\Users\Melis\source\repos\1. TO DO PROJECTS\MvcCampProject\EntityLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Melis\source\repos\1. TO DO PROJECTS\MvcCampProject\EntityLayer\bin\Debug\EntityFramework.xml
+C:\Users\Melis\source\repos\1. TO DO PROJECTS\MvcCampProject\EntityLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Melis\source\repos\1. TO DO PROJECTS\MvcCampProject\EntityLayer\obj\Debug\EntityLayer.csprojAssemblyReference.cache
+C:\Users\Melis\source\repos\1. TO DO PROJECTS\MvcCampProject\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\Melis\source\repos\1. TO DO PROJECTS\MvcCampProject\EntityLayer\obj\Debug\EntityLayer.csproj.CopyComplete
+C:\Users\Melis\source\repos\1. TO DO PROJECTS\MvcCampProject\EntityLayer\obj\Debug\EntityLayer.dll
+C:\Users\Melis\source\repos\1. TO DO PROJECTS\MvcCampProject\EntityLayer\obj\Debug\EntityLayer.pdb

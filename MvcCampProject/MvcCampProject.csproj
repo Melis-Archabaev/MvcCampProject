@@ -185,9 +185,17 @@
     <Content Include="Scripts\jquery-3.4.1.min.map" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\BusinessLayer\BusinessLayer.csproj">
+      <Project>{d1fdd714-5904-40bb-ba92-195add49d872}</Project>
+      <Name>BusinessLayer</Name>
+    </ProjectReference>
     <ProjectReference Include="..\DataAccesLayer\DataAccesLayer.csproj">
       <Project>{d8e5d58f-30b6-4b7d-9d2e-77e41c622891}</Project>
       <Name>DataAccesLayer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\EntityLayer\EntityLayer.csproj">
+      <Project>{3427f31e-07e3-4044-b556-4bc39509cbf3}</Project>
+      <Name>EntityLayer</Name>
     </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
